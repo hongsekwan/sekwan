@@ -1,0 +1,10 @@
+﻿  e03홍세관.cpp
+c:\users\hh432\source\repos\운영체제_과제3\운영체제_과제3\e03홍세관.cpp(11): warning C4101: 'year' :참조되지 않은 지역 변수입니다.
+c:\users\hh432\source\repos\운영체제_과제3\운영체제_과제3\e03홍세관.cpp(11): warning C4101: 'tries' :참조되지 않은 지역 변수입니다.
+c:\users\hh432\source\repos\운영체제_과제3\운영체제_과제3\e03홍세관.cpp(11): warning C4101: 'month' :참조되지 않은 지역 변수입니다.
+c:\users\hh432\source\repos\운영체제_과제3\운영체제_과제3\e03홍세관.cpp(11): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\hh432\source\repos\운영체제_과제3\운영체제_과제3\e03홍세관.cpp(12): warning C4101: 'guess' :참조되지 않은 지역 변수입니다.
+c:\users\hh432\source\repos\운영체제_과제3\운영체제_과제3\e03홍세관.cpp(12): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+c:\users\hh432\source\repos\운영체제_과제3\운영체제_과제3\e03홍세관.cpp(11): warning C4101: 'days' :참조되지 않은 지역 변수입니다.
+  운영체제_과제3.vcxproj -> C:\Users\hh432\source\repos\운영체제_과제3\Debug\운영체제_과제3.exe
+  운영체제_과제3.vcxproj -> C:\Users\hh432\source\repos\운영체제_과제3\Debug\운영체제_과제3.pdb (Partial PDB)
